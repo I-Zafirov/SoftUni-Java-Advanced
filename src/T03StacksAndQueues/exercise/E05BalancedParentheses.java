@@ -3,7 +3,7 @@ package T03StacksAndQueues.exercise;
 import java.util.ArrayDeque;
 import java.util.Scanner;
 
-public class Е05BalancedParentheses {
+public class E05BalancedParentheses {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String brackets = scanner.nextLine();
